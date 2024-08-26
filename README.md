@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me amiranrogava57@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: i like e cats
+- ⚡ Fun fact: i like cats
 
 <!---
 AmiranRogava/AmiranRogava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

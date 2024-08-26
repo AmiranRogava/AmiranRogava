@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning it
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me amiranrogava57@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i lovlooks like e cats
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: i like e cats
 
 <!---
 AmiranRogava/AmiranRogava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
